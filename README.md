@@ -11,5 +11,5 @@ mpicc -o gradient gradient.c
 And executed with:
 
 ```
-mpirun -np <number of process> gradient <order of matrix>
+mpirun -np <number of processes> gradient <order of matrix>
 ```
